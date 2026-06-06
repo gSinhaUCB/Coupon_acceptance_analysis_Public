@@ -64,13 +64,34 @@ The repository features high-resolution data visualizations mapping out these hu
 
 
 
-## Actionable Strategic Recommendations
+## Observation and Recommendations
 
-1. **Deploy Social Geofencing:** The advertising engine should prioritize high-margin Bar and Coffee House coupons exclusively when real-time smartphone telemetry detects multiple passengers traveling together during leisure hours.
+# Observations
 
-2. **Implement Structural Blackouts:** Scale back coupon delivery automatically during 30°F snowy/rainy commutes, or pivot entirely to low-friction "Carry-Away & Takeaway" coupons where drivers do not have to leave their climate-controlled vehicles.
+* Drivers show high willingness for "Restaurant(<20)" and "Carry out & Take away," but low acceptance for "Bar" and "Restaurants (20-50)."
 
-3. **Anchor on Behavioral Frequency:** Historical consumer frequency is a vastly superior predictor of coupon acceptance than standard demographic variables like income alone. Marketing capital should heavily weight past visitation data.
+* Coupon acceptance doesn't increase with warmer temperatures.
+
+* Historical behavior is a primary predictor; regular bar-goers accept at a 76% rate versus 37% for others.
+
+* Factors like being under 25 and visiting bars twice a month isolate high-probability segments.
+
+* Driving with friends spikes coffee house acceptance to 65-70%+.
+Solo drivers and those with children are less likely to accept coupons.
+
+
+# Recommendations
+
+* Avoid uniform coupon distribution across weather conditions.
+
+* Prioritize high-margin coupons on warm days and "Carry-Away" deals on cold days.
+
+* Restrict bar coupons to individuals with a proven history of visiting bars.
+
+* Filter out drivers under 25 and those without frequent habits to optimize bar coupon effectiveness.
+
+* Combine high-probability demographics (social, young, budget-conscious) into a unified target audience.
+
 
 More details in the Jupyter notebook itself
 
